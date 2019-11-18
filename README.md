@@ -1,1 +1,1 @@
-# Artificial-intelligence-fuzzy-system-Programs-
+Aim : WAP to implement Water jug problem.
